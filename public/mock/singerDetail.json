@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "result": {
+      "songs": [
+          {
+              "id": 247261229,
+              "mid": "001PLl3C4gPSCI",
+              "name": "我是如此相信",
+              "singer": "周杰伦",
+              "duration": 266,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001hGx1Z0so1YX.jpg?max_age=2592000",
+              "album": "我是如此相信",
+              "url": "http://isure.stream.qqmusic.qq.com/C4000047pzuu2wdt0M.m4a?guid=6019371666&vkey=9011CD819FC71B345DFB818B5EA5B9F5F7A45E7B51C82BC3440CD9CB82F7260D998A60FE547C1FEE0E8ACBCBE8BC7CC4C77494DEF117C1A4&uin=&fromtag=38"
+          },
+          {
+              "id": 95742,
+              "mid": "003oF0Pc0ahSx4",
+              "name": "屋顶",
+              "singer": "温岚/周杰伦",
+              "duration": 319,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000003PLavJ236DGO.jpg?max_age=2592000",
+              "album": "爱回温",
+              "url": "http://isure.stream.qqmusic.qq.com/C400001Kw10c0Sghea.m4a?guid=6019371666&vkey=D0F1C64078911627438B50F45198FA1C6BA68175464FBEFB4BF1487190998EE8E8ABA72B65EA2985E385567DAD8DC7CB9F2FB2DAB3F679FC&uin=&fromtag=38"
+          },
+          {
+              "id": 244115385,
+              "mid": "004Fs2FP1EvZYc",
+              "name": "晴天",
+              "singer": "周杰伦",
+              "duration": 249,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004fXSyj3bWTMN.jpg?max_age=2592000",
+              "album": "周杰伦地表最强世界巡回演唱会",
+              "url": "http://isure.stream.qqmusic.qq.com/C400004c8nUE0sCRkT.m4a?guid=6019371666&vkey=AC540B18BB0A1EF9A594E6D922824BFBA3F62E4F05EA6268ABF73889EAED5F37EDF717783D7B5E088B2A005261026820FB4C5A22506D8D0B&uin=&fromtag=38"
+          },
+          {
+              "id": 4963132,
+              "mid": "003nLOYI4gJ6U0",
+              "name": "周大侠",
+              "singer": "周杰伦",
+              "duration": 134,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004cPHRr3nkmJe.jpg?max_age=2592000",
+              "album": "2007世界巡回演唱会",
+              "url": "http://isure.stream.qqmusic.qq.com/C400003q8Gsj00xdxn.m4a?guid=6019371666&vkey=E45F9E1D3F451C42C62FCCDA3333CC6945D5B168BBA848A84388CC9E0027799A433639AE865AB4BF995438FD80E6A1C7E597D3E1AA14D2B2&uin=&fromtag=38"
+          },
+          {
+              "id": 244115402,
+              "mid": "000CTiz73EZBjB",
+              "name": "稻香",
+              "singer": "周杰伦",
+              "duration": 213,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004fXSyj3bWTMN.jpg?max_age=2592000",
+              "album": "周杰伦地表最强世界巡回演唱会",
+              "url": "http://isure.stream.qqmusic.qq.com/C400000YoN9W0cBtAI.m4a?guid=6019371666&vkey=0BEF9A58A3537B260C0BE4B2D31E711A6E807605FAB0FBAE6C4036599CF16B8465EB6B4B0958DF2F0BC18CBE987DFAD198A8B85FE2A77E38&uin=&fromtag=38"
+          },
+          {
+              "id": 106291297,
+              "mid": "001LY73007BS3u",
+              "name": "一路向北",
+              "singer": "周杰伦",
+              "duration": 297,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004c8Md02WHHju.jpg?max_age=2592000",
+              "album": "周杰伦魔天伦世界巡回演唱会",
+              "url": "http://isure.stream.qqmusic.qq.com/C4000044Bqmc4d0FV4.m4a?guid=6019371666&vkey=533A8CCF5C55474A2107B18545994FFD2F6104D3CA3F00B2D1D6DDBA3415E348387895ED28D1B05271116E49EA6AB216B5E3FFE3E19B47D8&uin=&fromtag=38"
+          },
+          {
+              "id": 106291301,
+              "mid": "001bbvdB0LyKXC",
+              "name": "明明就",
+              "singer": "周杰伦",
+              "duration": 255,
+              "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004c8Md02WHHju.jpg?max_age=2592000",
+              "album": "周杰伦魔天伦世界巡回演唱会",
+              "url": "http://isure.stream.qqmusic.qq.com/C400000gz2Hb30CquT.m4a?guid=6019371666&vkey=B7116F788C29D4AB2B844BC49DB5F8E6E14A9EFB47A9B1D14E81B49930D9907B4CD1E7CDA8AC1BF7D4226D1AABEF7A55F458886F098AC330&uin=&fromtag=38"
+          }
+      ]
+  }
+}
